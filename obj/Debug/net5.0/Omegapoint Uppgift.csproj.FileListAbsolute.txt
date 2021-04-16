@@ -1,0 +1,16 @@
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\bin\Debug\net5.0\Omegapoint Uppgift.exe
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\bin\Debug\net5.0\Omegapoint Uppgift.deps.json
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\bin\Debug\net5.0\Omegapoint Uppgift.runtimeconfig.json
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\bin\Debug\net5.0\Omegapoint Uppgift.runtimeconfig.dev.json
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\bin\Debug\net5.0\Omegapoint Uppgift.dll
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\bin\Debug\net5.0\ref\Omegapoint Uppgift.dll
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\bin\Debug\net5.0\Omegapoint Uppgift.pdb
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\obj\Debug\net5.0\Omegapoint Uppgift.csprojAssemblyReference.cache
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\obj\Debug\net5.0\Omegapoint Uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\obj\Debug\net5.0\Omegapoint Uppgift.AssemblyInfoInputs.cache
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\obj\Debug\net5.0\Omegapoint Uppgift.AssemblyInfo.cs
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\obj\Debug\net5.0\Omegapoint Uppgift.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\obj\Debug\net5.0\Omegapoint Uppgift.dll
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\obj\Debug\net5.0\ref\Omegapoint Uppgift.dll
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\obj\Debug\net5.0\Omegapoint Uppgift.pdb
+C:\Users\Dennis\Documents\Jobbgrejer\Omegapoint Uppgift\obj\Debug\net5.0\Omegapoint Uppgift.genruntimeconfig.cache
